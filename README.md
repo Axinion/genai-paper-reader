@@ -77,3 +77,8 @@ This dynamic template allows the LLM to adjust tone and complexity based on user
     The system returns:
 
         "GPT-3 is a very large AI model trained on a lot of text. It can perform many tasks without needing lots of training examples..."
+
+
+🧪 .env.example
+
+GOOGLE_API_KEY=your_google_api_key_here
